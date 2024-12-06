@@ -1,0 +1,38 @@
+clean data in data directory
+
+docker compose up
+
+docker cp hadoop-mapreduce-examples-2.7.1-sources.jar namenode:/tmp
+
+docker cp data\simplified_disease_symptom.txt namenode:/root/simplified_disease_symptom.txt
+
+docker exec -it namenode bash
+
+    hdfs dfs -mkdir -p /input
+
+    hdfs dfs -put /root/simplified_disease_symptom.txt /input/
+
+    cd tmp
+
+    hadoop jar hadoop-mapreduce-examples-2.7.1-sources.jar org.apache.hadoop.examples.WordCount /input/simplified_disease_symptom.txt output/symptom_analysis_count
+
+    hadoop jar symptom-disease-analysis.jar diseasymptomanalysis.SymptomDiseaseAnalysis /input/simplified_disease_symptom.txt /output/symptom_analysis_output
+
+
+    hdfs dfs -cat /user/root/output/symptom_analysis_count/*
+
+    hdfs dfs -get /user/root/output/symptom_analysis_count/part-r-00000 symptom_analysis_count.txt
+
+
+docker cp namenode:/tmp/symptom_analysis_count.txt "C:\Users\User\Desktop\Charlie College\Cloud\Projects\P3\hdfs-docker-compose-main\cloud_project\docker-hadoop\backend"
+
+cd backend
+
+python -m venv venv
+
+venv\Scripts\activate 
+pip install flask pandas matplotlib
+
+python app.py    
+
+    
