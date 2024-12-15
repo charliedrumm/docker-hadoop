@@ -63,11 +63,7 @@ Run the following commands:
    hadoop jar hadoop-mapreduce-examples-2.7.1-sources.jar org.apache.hadoop.examples.WordCount /input/simplified_disease_symptom.txt output/symptom_analysis_count
    ```
 
-3. Run Custom Symptom-Disease Analysis Job:
 
-   ```sh
-   hadoop jar symptom-disease-analysis.jar diseasymptomanalysis.SymptomDiseaseAnalysis /input/simplified_disease_symptom.txt /output/symptom_analysis_output
-   ```
 
 4. View the Word Count Output:
 
