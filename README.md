@@ -28,6 +28,10 @@ Navigate to the project root and run:
 docker compose up
 ```
 
+---
+
+IF YOU EVER HAVE A PROBLEM ENSURE ALL .sh FILES ARE LF LINE ENDINGS
+
 data should be mapped and reduced in hdfs dfs -cat /data/out/symptom_analysis_count/part-r-00000
 
 ### 6. Set Up Backend Flask Server
