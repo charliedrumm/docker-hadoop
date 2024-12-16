@@ -1,21 +1,11 @@
-FROM bde2020/hadoop-base:2.0.0-hadoop3.2.1-java8
+FROM apache/hadoop:3.4.0
 
-MAINTAINER Ivan Ermilov <ivan.s.ermilov@gmail.com>
+RUN mkdir -p /opt/hadoop/dfsdata/namenode
+RUN mkdir -p /opt/hadoop/tmpdata/dfs/name/
 
-# Install Python 3.6
-RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends python3.6 \
-    && update-alternatives --install /usr/bin/python python /usr/bin/python3.6 1 \
-    && apt-get clean && rm -rf /var/lib/apt/lists/*
-
-HEALTHCHECK CMD curl -f http://localhost:9870/ || exit 1
-
-ENV HDFS_CONF_dfs_namenode_name_dir=file:///hadoop/dfs/name
-RUN mkdir -p /hadoop/dfs/name
-VOLUME /hadoop/dfs/name
-
-ADD run.sh /run.sh
-RUN chmod a+x /run.sh
+COPY ./entrypoint.sh /opt/hadoop/entrypoint.sh
+RUN sudo chmod +x /opt/hadoop/entrypoint.sh
 
 EXPOSE 9870
 
-CMD ["/run.sh"]
+ENTRYPOINT ["sh", "-c", "/opt/hadoop/entrypoint.sh"]

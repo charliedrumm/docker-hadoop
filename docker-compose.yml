@@ -1,62 +1,72 @@
-version: "3"
-
 services:
   namenode:
-    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
-    container_name: namenode
-    restart: always
+    build: ./namenode
     ports:
-      - 9870:9870
-      - 9000:9000
+      - "9870:9870"
+      - "9000:9000"
     volumes:
-      - hadoop_namenode:/hadoop/dfs/name
-    environment:
-      - CLUSTER_NAME=test
-    env_file:
-      - ./hadoop.env
+      # namenode config files
+      - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
+      - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
+      - ./data:/opt/hadoop/data/
+      - ./reduce_jobs:/opt/hadoop/mapreduce-jobs/
+    
 
-  datanode:
-    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
-    container_name: datanode
-    restart: always
-    volumes:
-      - hadoop_datanode:/hadoop/dfs/data
-    environment:
-      SERVICE_PRECONDITION: "namenode:9870"
-    env_file:
-      - ./hadoop.env
-  
   resourcemanager:
-    image: bde2020/hadoop-resourcemanager:2.0.0-hadoop3.2.1-java8
-    container_name: resourcemanager
-    restart: always
-    environment:
-      SERVICE_PRECONDITION: "namenode:9000 namenode:9870 datanode:9864"
-    env_file:
-      - ./hadoop.env
-
-  nodemanager1:
-    image: bde2020/hadoop-nodemanager:2.0.0-hadoop3.2.1-java8
-    container_name: nodemanager
-    restart: always
-    environment:
-      SERVICE_PRECONDITION: "namenode:9000 namenode:9870 datanode:9864 resourcemanager:8088"
-    env_file:
-      - ./hadoop.env
-  
-  historyserver:
-    image: bde2020/hadoop-historyserver:2.0.0-hadoop3.2.1-java8
-    container_name: historyserver
-    restart: always
-    environment:
-      SERVICE_PRECONDITION: "namenode:9000 namenode:9870 datanode:9864 resourcemanager:8088"
+    build: ./resourcemanager
+    ports:
+      - "8088:8088"
+    # resourcemanager config files
     volumes:
-      - hadoop_historyserver:/hadoop/yarn/timeline
-    env_file:
-      - ./hadoop.env
+      - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
+      - ./config/yarn-site.xml:/opt/hadoop/etc/hadoop/yarn-site.xml
+      - ./config/mapred-site.xml:/opt/hadoop/etc/hadoop/mapred-site.xml
+    depends_on:
+      - namenode
+  
+  nodemanager:
+    build: ./nodemanager
+    ports:
+      - "8042:8042"
+    # nodemanager config files
+    volumes:
+      - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
+      - ./config/yarn-site.xml:/opt/hadoop/etc/hadoop/yarn-site.xml
+      - ./config/mapred-site.xml:/opt/hadoop/etc/hadoop/mapred-site.xml
+    depends_on:
+      - resourcemanager
+
+  datanode1:
+    build: ./datanode
+    ports:
+      - "9864:9864"
+    volumes:
+      # datanode config files
+      - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
+      - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
+    depends_on:
+      - namenode
+
+  datanode2:
+    build: ./datanode
+    ports:
+      - "9865:9864"
+    volumes:
+      # datanode config files
+      - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
+      - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
+    depends_on:
+        - namenode
+
+  datanode3:
+    build: ./datanode
+    ports:
+      - "9866:9864"
+    volumes:
+      # datanode config files
+      - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
+      - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
+    depends_on:
+      - namenode
 
   
-volumes:
-  hadoop_namenode:
-  hadoop_datanode:
-  hadoop_historyserver:
