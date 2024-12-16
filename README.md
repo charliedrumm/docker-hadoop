@@ -28,61 +28,7 @@ Navigate to the project root and run:
 docker compose up
 ```
 
-This command will spin up the Hadoop services (Namenode, Datanode, etc.).
-
-### 3. Copy Data and JAR File to Namenode
-
-Copy the MapReduce examples JAR and the dataset to the Namenode container:
-
-```sh
-docker cp hadoop-mapreduce-examples-2.7.1-sources.jar namenode:/tmp
-docker cp data/simplified_disease_symptom.txt namenode:/root/simplified_disease_symptom.txt
-```
-
-### 4. Run Hadoop Commands on Namenode
-
-Execute an interactive bash session on the Namenode container:
-
-```sh
-docker exec -it namenode bash
-```
-
-Run the following commands:
-
-1. Create an input directory in HDFS and put the dataset into it:
-
-   ```sh
-   hdfs dfs -mkdir -p /input
-   hdfs dfs -put /root/simplified_disease_symptom.txt /input/
-   ```
-
-2. Run Word Count Example:
-
-   ```sh
-   cd tmp
-   hadoop jar hadoop-mapreduce-examples-2.7.1-sources.jar org.apache.hadoop.examples.WordCount /input/simplified_disease_symptom.txt output/symptom_analysis_count
-   ```
-
-
-
-4. View the Word Count Output:
-
-   ```sh
-   hdfs dfs -cat /user/root/output/symptom_analysis_count/*
-   ```
-
-5. Copy the Word Count output from HDFS to the local filesystem:
-   ```sh
-   hdfs dfs -get /user/root/output/symptom_analysis_count/part-r-00000 symptom_analysis_count.txt
-   ```
-
-### 5. Copy Output File to Local Machine
-
-Exit the namenode container and copy the output file to your local machine:
-
-```sh
-docker cp namenode:/tmp/symptom_analysis_count.txt "C:\Users\User\Desktop\Charlie College\Cloud\Projects\P3\hdfs-docker-compose-main\cloud_project\docker-hadoop\backend"
-```
+data should be mapped and reduced in hdfs dfs -cat /data/out/symptom_analysis_count/part-r-00000
 
 ### 6. Set Up Backend Flask Server
 
