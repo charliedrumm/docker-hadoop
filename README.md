@@ -34,6 +34,8 @@ IF YOU EVER HAVE A PROBLEM ENSURE ALL .sh FILES ARE LF LINE ENDINGS
 
 data should be mapped and reduced in hdfs dfs -cat /data/out/symptom_analysis_count/part-r-00000
 
+if you go to the flask app at http://127.0.0.1:5000/get-mapreduce-output you should get the map reduce output.
+
 ### 6. Set Up Backend Flask Server
 
 Navigate to the `backend` directory:
