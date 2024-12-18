@@ -9,13 +9,17 @@ ENV PYSPARK_PYTHON=python3
 ENV JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 ENV PATH=$PATH:/usr/lib/jvm/java-17-openjdk-amd64/bin
 
+# Set working directory
+WORKDIR /app
+
+# Copy the entire backend directory
+COPY . .
+
 # Install Python dependencies
-COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the app into the container
-WORKDIR /app
-COPY app.py /app
+# Add the current directory to PYTHONPATH
+ENV PYTHONPATH=/app
 
 # Expose Flask port
 EXPOSE 5000

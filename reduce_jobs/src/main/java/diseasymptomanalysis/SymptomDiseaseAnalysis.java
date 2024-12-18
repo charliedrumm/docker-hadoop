@@ -10,8 +10,11 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
+import org.apache.log4j.Logger;
 
 public class SymptomDiseaseAnalysis {
+    private static final Logger logger = Logger.getLogger(SymptomDiseaseAnalysis.class);
+
     public static class SymptomMapper extends Mapper<Object, Text, Text, Text> {
         @Override
         public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
@@ -75,15 +78,23 @@ public class SymptomDiseaseAnalysis {
         job.setJarByClass(SymptomDiseaseAnalysis.class);
         job.setMapperClass(SymptomMapper.class);
         job.setReducerClass(SymptomReducer.class);
-
+    
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(Text.class);
-
+    
         for (int i = 0; i < otherArgs.length - 1; ++i) {
             FileInputFormat.addInputPath(job, new Path(otherArgs[i]));
         }
         FileOutputFormat.setOutputPath(job, new Path(otherArgs[otherArgs.length - 1]));
-
-        System.exit(job.waitForCompletion(true) ? 0 : 1);
+    
+        boolean success = job.waitForCompletion(true);
+    
+        if (success) {
+            logger.info("Application is now ready at localhost:3000. Symptom-disease analysis completed successfully using Spark.");
+        } else {
+            logger.error("Job failed!");
+        }
+    
+        System.exit(success ? 0 : 1);
     }
-}
+}    

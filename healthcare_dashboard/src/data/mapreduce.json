@@ -1,0 +1,7264 @@
+{
+  "data": {
+    "analysis": [
+      {
+        "disease": "Eating",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "ASD",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Anorexia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "COPD",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "COPD",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Ear",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Heart",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "PCOS",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "PCP",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pink",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "UTI",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "UTI",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "UTI",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Acne",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Allergic",
+        "symptoms": [],
+        "outcome": null,
+        "count": 6
+      },
+      {
+        "disease": "Alzheimers",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Anemia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Anemia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Anxiety",
+        "symptoms": [],
+        "outcome": null,
+        "count": 6
+      },
+      {
+        "disease": "Apnea",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Appendicitis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Artery",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Arthritis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Arthritis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Arthritis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Arthritis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Arthritis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Asthma",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Atherosclerosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Autism",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "B",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Bifida",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Bipolar",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Bladder",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Brain",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Breast",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Bronchiectasis",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Bronchitis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Bronchitis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Bronchitis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Bronchitis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Bronchitis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Bronchitis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 11
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 13
+      },
+      {
+        "disease": "COVID-19",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cancer",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cataracts",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cell",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Cerebral",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Chickenpox",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Cholecystitis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 9
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Cholera",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Chronic",
+        "symptoms": [],
+        "outcome": null,
+        "count": 6
+      },
+      {
+        "disease": "Cirrhosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cold",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cold",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cold",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cold",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Cold",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Cold",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Colitis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Colitis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Colitis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Colitis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Colitis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Colorectal",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Common",
+        "symptoms": [],
+        "outcome": null,
+        "count": 6
+      },
+      {
+        "disease": "Conjunctivitis",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Coronary",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Crohns",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Cystic",
+        "symptoms": [],
+        "outcome": null,
+        "count": 127
+      },
+      {
+        "disease": "Dementia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Dengue",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Depression",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Depression",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Depression",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Depression",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Depression",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Diabetes",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [],
+        "outcome": null,
+        "count": 4
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Disease",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "DiseaseOutcome",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Disorde",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Disorder",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Disorder",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Disorders",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Disorders",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Disorders",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Disorders",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Disorders",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Disorders",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Disorders",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Diverticulitis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Down",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Dystrophy",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Ebola",
+        "symptoms": [],
+        "outcome": null,
+        "count": 116
+      },
+      {
+        "disease": "Eczema",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Eczema",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Eczema",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Eczema",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Emphysema",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Endometriosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Epilepsy",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "Erythematosus",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Esophageal",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Eye",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 9
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Failure",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Fibromyalgia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 9
+      },
+      {
+        "disease": "Fibrosis",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Gastroenteritis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Gastroenteritis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Gastroenteritis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Gastroenteritis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Gastroenteritis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Gastroenteritis",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Glaucoma",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Gout",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 9
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 11
+      },
+      {
+        "disease": "HIVAIDS",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Heart",
+        "symptoms": [],
+        "outcome": null,
+        "count": 98
+      },
+      {
+        "disease": "Hemophilia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Hemorrhoids",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Hepatitis",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Hepatitis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Hepatitis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Hyperglycemia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 10
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Hypertension",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Hypertensive",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Hyperthyroidism",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Hyperthyroidism",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Hyperthyroidism",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Hyperthyroidism",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Hyperthyroidism",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Hypoglycemia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Hypothyroidism",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Hypothyroidism",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Hypothyroidism",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Hypothyroidism",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Infarction",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [],
+        "outcome": null,
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Infection",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Influenza",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Influenza",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Influenza",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Influenza",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Influenza",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Kidney",
+        "symptoms": [],
+        "outcome": null,
+        "count": 12
+      },
+      {
+        "disease": "Klinefelter",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 12
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Leukemia",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 10
+      },
+      {
+        "disease": "Liver",
+        "symptoms": [],
+        "outcome": null,
+        "count": 11
+      },
+      {
+        "disease": "Lung",
+        "symptoms": [],
+        "outcome": null,
+        "count": 3
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 11
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 9
+      },
+      {
+        "disease": "Lupus",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 11
+      },
+      {
+        "disease": "Lyme",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Lymphoma",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Malaria",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Marfan",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Measles",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Media",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Melanoma",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Migraine",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Multiple",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Mumps",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Muscular",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Myocardial",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Obsessive-Compulsive",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Obstructive",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Osteoarthritis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Osteoarthritis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Osteoarthritis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Osteoarthritis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Osteoarthritis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Osteomyelitis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Osteoporosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Otitis",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Ovarian",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Ovary",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Palsy",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pancreatic",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Pancreatitis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Pancreatitis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Pancreatitis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pancreatitis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pancreatitis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Parkinsons",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Pneumocystis",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Pneumonia",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Pneumonia",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pneumonia",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Pneumonia",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Pneumonia",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Pneumonia",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 11
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 13
+      },
+      {
+        "disease": "Pneumothorax",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Polio",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Polycystic",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Prader-Willi",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Prostate",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Psoriasis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Psoriasis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Psoriasis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Psoriasis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Psoriasis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Pulmonary",
+        "symptoms": [],
+        "outcome": null,
+        "count": 116
+      },
+      {
+        "disease": "Pulmonary",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Rabies",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Rheumatoid",
+        "symptoms": [],
+        "outcome": null,
+        "count": 6
+      },
+      {
+        "disease": "Rhinitis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Rhinitis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Rhinitis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Rhinitis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Rhinitis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Rotavirus",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Rubella",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Schizophrenia",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Sclerosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Sclerosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Sclerosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Scoliosis",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 13
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Sepsis",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Shigellosis",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Sickle",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Sinus",
+        "symptoms": [],
+        "outcome": null,
+        "count": 117
+      },
+      {
+        "disease": "Sinusitis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Sleep",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Spectrum",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Spina",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Stroke",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Syndrome",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Syndrome",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Syndrome",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Systemic",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Testicular",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Tetanus",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Thyroid",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Tonsillitis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Tourette",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Tract",
+        "symptoms": [],
+        "outcome": null,
+        "count": 8
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 10
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 7
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 5
+      },
+      {
+        "disease": "Tuberculosis",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 8
+      },
+      {
+        "disease": "Tumor",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Turner",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 8
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 1
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Typhoid",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Ulcerative",
+        "symptoms": [],
+        "outcome": null,
+        "count": 5
+      },
+      {
+        "disease": "Urinary",
+        "symptoms": [],
+        "outcome": null,
+        "count": 8
+      },
+      {
+        "disease": "Variable",
+        "symptoms": [],
+        "outcome": null,
+        "count": 2
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 6
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 13
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 1
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 9
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 13
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 10
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 4
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 4
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 6
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 13
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 2
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 13
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 13
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 14
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Negative",
+        "count": 5
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Cough"
+        ],
+        "outcome": "Positive",
+        "count": 12
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 17
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "DifficultyBreathing"
+        ],
+        "outcome": "Positive",
+        "count": 7
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Negative",
+        "count": 3
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever",
+          "Fatigue"
+        ],
+        "outcome": "Positive",
+        "count": 16
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Negative",
+        "count": 2
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [
+          "Fever"
+        ],
+        "outcome": "Positive",
+        "count": 13
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [],
+        "outcome": "Negative",
+        "count": 9
+      },
+      {
+        "disease": "Virus",
+        "symptoms": [],
+        "outcome": "Positive",
+        "count": 3
+      },
+      {
+        "disease": "Williams",
+        "symptoms": [],
+        "outcome": null,
+        "count": 1
+      },
+      {
+        "disease": "Zika",
+        "symptoms": [],
+        "outcome": null,
+        "count": 115
+      }
+    ]
+  }
+}

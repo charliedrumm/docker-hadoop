@@ -5,18 +5,15 @@ services:
       - "9870:9870"
       - "9000:9000"
     volumes:
-      # namenode config files
       - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
       - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
       - ./data:/opt/hadoop/data/
       - ./reduce_jobs:/opt/hadoop/mapreduce-jobs/
     
-
   resourcemanager:
     build: ./resourcemanager
     ports:
       - "8088:8088"
-    # resourcemanager config files
     volumes:
       - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
       - ./config/yarn-site.xml:/opt/hadoop/etc/hadoop/yarn-site.xml
@@ -28,7 +25,6 @@ services:
     build: ./nodemanager
     ports:
       - "8042:8042"
-    # nodemanager config files
     volumes:
       - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
       - ./config/yarn-site.xml:/opt/hadoop/etc/hadoop/yarn-site.xml
@@ -41,7 +37,6 @@ services:
     ports:
       - "9864:9864"
     volumes:
-      # datanode config files
       - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
       - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
     depends_on:
@@ -52,18 +47,16 @@ services:
     ports:
       - "9865:9864"
     volumes:
-      # datanode config files
       - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
       - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
     depends_on:
-        - namenode
+      - namenode
 
   datanode3:
     build: ./datanode
     ports:
       - "9866:9864"
     volumes:
-      # datanode config files
       - ./config/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml
       - ./config/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml
     depends_on:
@@ -77,6 +70,15 @@ services:
       - namenode
       - resourcemanager
       - datanode1
+    environment:
+      - FLASK_ENV=development
+      - CORS_ORIGINS=http://localhost:3000
     container_name: flask-app
 
-  
+  healthcare-dashboard:
+    build: ./healthcare_dashboard
+    ports:
+      - "3000:3000"
+    depends_on:
+      - flask-app
+    container_name: healthcare-dashboard
